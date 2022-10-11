@@ -16,3 +16,5 @@
  ###### I think the graph "Theater Outcomes by Launch Date" could be filtered down specifically to plays like we did for the "Outcomes based on Goals". Since Louise is fundrasing for a play the information provided is more relevant to her cause. 
  ![Plays outcomes by launch date](https://user-images.githubusercontent.com/114840416/195175524-cc2d56c8-90af-44b7-87f1-8a9b4a4cc7fa.png)
 ###### As you can see there were no cancelled campaigns for plays so it is not indicated on this graph. Filtering this information this way may have helped during the challange I encounted with the 'countifs' function. 
+## Kickstarter-Analysis Excel
+[kickstarter_challenge.xlsx](https://github.com/mheaton1/kickstarter-analysis/files/9759011/kickstarter_challenge.xlsx)
